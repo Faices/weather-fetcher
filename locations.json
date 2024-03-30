@@ -1,0 +1,28 @@
+[
+    {"name": "Rheinfelden, Switzerland", "latitude": "47.554", "longitude": "7.793"},
+    {"name": "Zurich, Switzerland", "latitude": "47.3769", "longitude": "8.5417"},
+    {"name": "Geneva, Switzerland", "latitude": "46.2044", "longitude": "6.1432"},
+    {"name": "Bern, Switzerland", "latitude": "46.9480", "longitude": "7.4474"},
+    {"name": "Lausanne, Switzerland", "latitude": "46.5197", "longitude": "6.6323"},
+    {"name": "Basel, Switzerland", "latitude": "47.5596", "longitude": "7.5886"},
+    {"name": "Lucerne, Switzerland", "latitude": "47.0502", "longitude": "8.3093"},
+    {"name": "Lugano, Switzerland", "latitude": "46.0037", "longitude": "8.9511"},
+    {"name": "St. Gallen, Switzerland", "latitude": "47.4245", "longitude": "9.3767"},
+    {"name": "Interlaken, Switzerland", "latitude": "46.6863", "longitude": "7.8632"},
+    {"name": "Washington D.C., USA", "latitude": "38.9072", "longitude": "-77.0369"},
+    {"name": "London, UK", "latitude": "51.5074", "longitude": "-0.1278"},
+    {"name": "Tokyo, Japan", "latitude": "35.6895", "longitude": "139.6917"},
+    {"name": "Paris, France", "latitude": "48.8566", "longitude": "2.3522"},
+    {"name": "Berlin, Germany", "latitude": "52.5200", "longitude": "13.4050"},
+    {"name": "Moscow, Russia", "latitude": "55.7558", "longitude": "37.6173"},
+    {"name": "Beijing, China", "latitude": "39.9042", "longitude": "116.4074"},
+    {"name": "New Delhi, India", "latitude": "28.6139", "longitude": "77.2090"},
+    {"name": "Canberra, Australia", "latitude": "-35.2809", "longitude": "149.1300"},
+    {"name": "Brasilia, Brazil", "latitude": "-15.7942", "longitude": "-47.8822"},
+    {"name": "Ottawa, Canada", "latitude": "45.4215", "longitude": "-75.6972"},
+    {"name": "Mexico City, Mexico", "latitude": "19.4326", "longitude": "-99.1332"},
+    {"name": "Cairo, Egypt", "latitude": "30.0444", "longitude": "31.2357"},
+    {"name": "Nairobi, Kenya", "latitude": "-1.286389", "longitude": "36.817223"},
+    {"name": "Buenos Aires, Argentina", "latitude": "-34.6037", "longitude": "-58.3816"}
+]
+
